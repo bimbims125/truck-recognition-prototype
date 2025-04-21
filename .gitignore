@@ -1,0 +1,8 @@
+*.pyc
+dataset2
+.vscode
+snakedataset
+best_model.h5
+main.ipynb
+testing/
+env/
